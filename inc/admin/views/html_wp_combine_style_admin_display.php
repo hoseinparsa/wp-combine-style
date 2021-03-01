@@ -28,7 +28,6 @@
 
         <table class="form-table" role="presentation">
             <tbody>
-
             <tr>
                 <th scope="row"><label for="timedeletestyle">زمان پاکسازی</label></th>
                 <td>
@@ -37,10 +36,12 @@
             </tr>
             <tr>
                 <th scope="row"><label for="pluginstatus">فعالسازی</label></th>
-                <td><fieldset><legend class="screen-reader-text"><span>فعالسازی</span></legend><label for="pluginstatus">
+                <td>
+                    <fieldset><legend class="screen-reader-text"><span>فعالسازی</span></legend><label for="pluginstatus">
                             <input name="pluginstatus" type="checkbox" id="pluginstatus" value="1" <?php echo $plugin_settings['plugin_status'] == 1 ? 'checked' : '' ?> >فعالسازی</label>
-                        <p class="description" id="pluginstatus">فعالسازی و غیر فعالسازی</p>
-                    </fieldset></td>
+                            <p class="description" id="pluginstatus">فعالسازی و غیر فعالسازی</p>
+                    </fieldset>
+                </td>
 
             </tr>
             </tbody>
