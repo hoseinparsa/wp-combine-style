@@ -33,6 +33,7 @@ and this plugin can support your private styles.
 2. after install active plugin and set time to clean combine styles
 
 == Changelog ==
+
 = 1.3 =
 * fix errors
 
