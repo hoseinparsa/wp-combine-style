@@ -22,8 +22,10 @@ this is a free plugin to combine all css styles that queue in admin pages and ca
 
 this plugin can combine styles admin page without set setting 
 and you can set time to clean styles that created 
-and this operation is automatic clean styles 4000 min and you can change it
+and this operation is automatic clean styles 4000 min and you can change it 
+you can search in wordpress plugins by this name 
 and this plugin can support your private styles.
+
 
 == Installation ==
 
