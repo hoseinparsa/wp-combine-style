@@ -1,11 +1,19 @@
 === WP Combine Styles ===
+
 Contributors: hoseinparsa
+
 Donate link: http://hparsa.ir/
+
 Tags: litespeed, cache, combine_style, combine, styles, Combine Styles, litespeedcache,farsi, persian, iran
+
 Requires at least: 3.0.1
+
 Tested up to: 3.4
+
 Stable tag: 1.3.0
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 this is a free plugin to combine all css styles that queue in admin pages and can be private
